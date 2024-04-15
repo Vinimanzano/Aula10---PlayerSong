@@ -1,4 +1,4 @@
-# Site chamado Escuta ai!
+# Atividade - Site chamado Escuta ai!
 
  - Desenvolva um site utilizando CSS e Bootstrap (pode escolher um ou utilizar os dois)
  - O Site deve conter 3 playlists, com 3 artistas ou generos diferentes
